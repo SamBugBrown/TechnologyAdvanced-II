@@ -33,28 +33,10 @@ TechnologyAdvanced II v4 Series -
 Current! Use the Technic Launcher to Play!
 
 TechnologyAdvancaed II v5 Series -
-Release Date Range: 2.6.16 - 2.29.16
-
-TechnologyAdvanced III Alpha Test (Only Downloadable Here) -
-N/A
-
-TechnologyAdvanced III v1 Series -
-Release Date Range: 3.1.16 - 3.31.16
-
-TechnologyAdvanced III v2 Series -
-Release Date Range: N/A
-
-TechnologyAdvanced III v3 Series -
-Release Date Range: N/A
-
-TechnologyAdvanced III v4 Series -
-Release Date Range: N/A
-
-TechnologyAdvanced III v5 Series -
-Release Date Range: N/A
-
-TechnologyAdvanced IV Alpha Test (Only Downloadable Here!)
-N/A
+ Confirmed Features:
+More Mods
+ Release Date Range:
+2.8.16 - 2.29.16
 
 
 
