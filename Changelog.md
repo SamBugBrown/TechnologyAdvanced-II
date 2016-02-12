@@ -1,5 +1,30 @@
 #TechnologyAdvanced II v2.5.1.0
-Update Confirmed. Not Yet Released.
+New Mods:
+- Eureka API
+- RF Drills
+- BuildCraft Additions
+- Enhanced Portals
+- MineChecm
+- DynamicDynamos (TE Dynamo Animation Addon)
+- NumiaAPI
+- Modular Powersuits
+- Portal Gun
+- MFFS
+- iChunUtil
+- OpenEye
+- TechReborn
+- RebornCoreAPI
+
+Updated Mods:
+- None
+
+Config Changes:
+- Enhanced Portals
+ - Vanilla Recipes Removed
+- Modular Powersuits
+ - IC2, EnderIO, Thermal Expansion Recipes
+- TechReborn
+ - Disabled a few Harder Recipes
 
 #TechnologyAdvanced II v2.4.1.0
 New Mods:
