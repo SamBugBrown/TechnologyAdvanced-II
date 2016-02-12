@@ -30,7 +30,7 @@ TechnologyAdvanced II v3 Series -
 https://copy.com/WwyaqXiw3oUA8Ikk
 
 TechnologyAdvanced II v4 Series -
-Current! Use the Technic Launcher to Play!
+https://copy.com/ssDrenVh4t2VuDp0
 
 TechnologyAdvancaed II v5 Series -
 Current! Use the Technic Launcher to Play!
