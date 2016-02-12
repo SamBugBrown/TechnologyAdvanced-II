@@ -35,7 +35,7 @@ Current! Use the Technic Launcher to Play!
 TechnologyAdvancaed II v5 Series -
 Current! Use the Technic Launcher to Play!
 
-TechnologyAdvanced II v6 Alpha - N/A
+TechnologyAdvanced II v6 Series Alpha - N/A
 
 
 
