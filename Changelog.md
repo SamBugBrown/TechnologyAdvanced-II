@@ -15,8 +15,9 @@ New Mods:
 - TechReborn
 - RebornCoreAPI
 
-Updated Mods:
-- None
+Removed Mods:
+- ChickenChunks
+ - Single Player Crashes Removed!
 
 Config Changes:
 - Enhanced Portals
@@ -26,6 +27,10 @@ Config Changes:
 - TechReborn
  - Disabled a few Harder Recipes
 
+Bugs Crushed:
+- Single Player Crash
+ - Damn you Chicken Chunks, Damn You!
+ 
 #TechnologyAdvanced II v2.4.1.0
 New Mods:
 - Twilight Forest
