@@ -33,10 +33,9 @@ TechnologyAdvanced II v4 Series -
 Current! Use the Technic Launcher to Play!
 
 TechnologyAdvancaed II v5 Series -
- Confirmed Features:
-More Mods
- Release Date Range:
-2.8.16 - 2.29.16
+Current! Use the Technic Launcher to Play!
+
+TechnologyAdvanced II v6 Alpha - N/A
 
 
 
