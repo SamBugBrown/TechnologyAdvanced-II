@@ -1,5 +1,5 @@
 # TechnologyAdvanced II
-This is the GitHub Repository for TechnologyAdvanced II, a Minecraft Modpack. We support Technology, our main Mod System, along with building, magic and exploration. Please post any Issues with the pack in the "Issues" Section, and Requests in the "Requests" section.
+This is the GitHub Repository for TechnologyAdvanced II, a Minecraft Modpack. We support Technology, our main Mod System, along with building, magic and exploration. Please post any Issues with the pack in the "Issues" Section, and Requests in the issues section aswell.
 # Downloads
 Need a version of TechnologyAdvanced?
 
@@ -35,7 +35,8 @@ https://copy.com/ssDrenVh4t2VuDp0
 TechnologyAdvancaed II v5 Series -
 Current! Use the Technic Launcher to Play!
 
-TechnologyAdvanced II v6 Series Alpha - N/A
+TechnologyAdvanced II v6 Series -
+N/A
 
 
 
